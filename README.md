@@ -1,4 +1,4 @@
-<h1 style="color: blue;"><a name="welcome"></a> Welcome</h1>
+## <a name="welcome"></a> Welcome
 
 <br>
 
