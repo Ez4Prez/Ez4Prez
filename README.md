@@ -27,7 +27,7 @@ My name is Ezra Mays Richards. I am a software engineer with a niche for creativ
 
 <img align="left" alt="sql" width="30px" src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-380x512-ez505zus.png"> <h4><a name="sql"></a>SQL</h4>
 
-<img align="left" alt="flask" width="30px" src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png"> <h4><a name="flask"></a>Flask</h4>
+<img align="left" alt="flask" width="30px" src="https://repository-images.githubusercontent.com/596892/cc2c69ec-9251-4b33-8283-b86a8659c9cb"> <h4><a name="flask"></a>Flask</h4>
 
 ## Hobbies
  
