@@ -11,13 +11,13 @@ My name is Ezra Mays Richards. I am a software engineer with a niche for creativ
 <br>
 
 
-<h3><a name="socials">SOCIAL PLATFORMS</h3>
+## SOCIAL PLATFORMS
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezra-mays/) 
 [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ezra1almond)
 
  
-<h3><a name="techs">TECHNOLOGY STACK</h3> 
+## TECHNOLOGY STACK
    
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <h4><a name="js"></a>Javascript</h4> 
 
@@ -29,7 +29,7 @@ My name is Ezra Mays Richards. I am a software engineer with a niche for creativ
 
 <img align="left" alt="flask" width="30px" src="https://www.kindpng.com/picc/m/188-1882559_python-flask-hd-png-download.png"> <h4><a name="flask"></a>Flask</h4>
 
-<h3><a name="hobbies">Hobbies</h3>
+## Hobbies
  
 <img align="left" alt="chess" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYHx7RK8j3BltGF7mW3SOhW9skJCP5jX-szw&usqp=CAU"> <h4><a name="chess"></a>Chess</h4>
 
