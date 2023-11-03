@@ -29,8 +29,6 @@ My name is Ezra Mays Richards. I am a software engineer with a niche for creativ
 
 <img align="left" alt="flask" width="30px" src="https://www.kindpng.com/picc/m/188-1882559_python-flask-hd-png-download.png"> <h4><a name="flask"></a>Flask</h4>
 
-<br>
-
 <h3><a name="hobbies">Hobbies</h3>
  
 <img align="left" alt="chess" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYHx7RK8j3BltGF7mW3SOhW9skJCP5jX-szw&usqp=CAU"> <h4><a name="chess"></a>Chess</h4>
