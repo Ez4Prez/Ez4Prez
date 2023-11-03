@@ -25,9 +25,9 @@ My name is Ezra Mays Richards. I am a software engineer with a niche for creativ
 
 <img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png?size=48"> <h4><a name="python"></a>Python</h4>
 
-<img align="left" alt="sql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"> <h4><a name="sql"></a>SQL</h4>
+<img align="left" alt="sql" width="30px" src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-380x512-ez505zus.png"> <h4><a name="sql"></a>SQL</h4>
 
-<img align="left" alt="flask" width="30px" src="https://www.kindpng.com/picc/m/188-1882559_python-flask-hd-png-download.png"> <h4><a name="flask"></a>Flask</h4>
+<img align="left" alt="flask" width="30px" src="https://e7.pngegg.com/pngimages/509/951/png-clipart-flask-by-example-web-framework-python-bottle-bottle-text-logo-thumbnail.png"> <h4><a name="flask"></a>Flask</h4>
 
 ## Hobbies
  
@@ -36,6 +36,7 @@ My name is Ezra Mays Richards. I am a software engineer with a niche for creativ
 <img align="left" alt="cycle" width="30px" src="https://d1nhio0ox7pgb.cloudfront.net/_img/o_collection_png/green_dark_grey/256x256/plain/bicycle.png"> <h4><a name="cycle"></a>Cycling</h4>
 
 <img align="left" alt="film" width="30px" src="https://png.pngtree.com/png-clipart/20190921/original/pngtree-movie-board-icon-png-image_4751062.jpg"> <h4><a name="film"></a>Film</h4>
+
 
 
 
