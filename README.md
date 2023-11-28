@@ -27,15 +27,19 @@ My name is Ezra Mays Richards. I am a software engineer with a niche for creativ
 
 <img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png?size=48"> <h4><a name="python"></a>Python</h4>
 
-<img align="left" alt="flask" width="30px" src="https://img.icons8.com/fluency/48/flask.png"> <h4><a name="flask"></a>Flask</h4>
+<img align="left" alt="flask" width="30px" src="https://img.icons8.com/cute-clipart/64/flask.png"> <h4><a name="flask"></a>Flask</h4>
 
 ## Hobbies
+
+<img align="left" alt="film" width="30px" src="https://img.icons8.com/emoji/48/clapper-board-emoji.png" alt="clapper-board-emoji"> <h4><a name="film"></a>Film</h4>
+
+<img align="left" alt="cycle" width="30px" src="https://img.icons8.com/avantgarde/100/bicycle.png"> <h4><a name="cycle"></a>Cycling</h4>
  
 <img align="left" alt="chess" width="30px" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-chess-seo-flaticons-flat-flat-icons.png" alt="external-chess-seo-flaticons-flat-flat-icons"> <h4><a name="chess"></a>Chess</h4>
 
-<img align="left" alt="cycle" width="30px" src="https://img.icons8.com/avantgarde/100/bicycle.png"> <h4><a name="cycle"></a>Cycling</h4>
 
-<img align="left" alt="film" width="30px" src="https://img.icons8.com/emoji/48/clapper-board-emoji.png" alt="clapper-board-emoji"> <h4><a name="film"></a>Film</h4>
+
+
 
 
 
