@@ -2,7 +2,7 @@
 
 <br>
 
-My name is Ezra Mays Richards. I am a software engineer with a niche for creative problem solving and inovative design. I enjoy using programming languages to build projects from scratch and bring visions to reality... 
+My name is Ezra Mays Richards. I am a software engineer with a ensuthiasm for creative problem solving and inovative design. I enjoy using programming languages to build projects from scratch and bring visions to reality... 
 
 <br>
 🌱 I’m currently working towards launching a portfolio site to showcase my projects..
