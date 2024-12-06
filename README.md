@@ -2,12 +2,12 @@
 
 <br>
 
-My name is Ezra Mays Richards. I am a software engineer with an ensuthiasm for creative problem solving and inovative design. I enjoy using programming languages to build projects from scratch and bring visions to reality... 
+My name is Ezra Mays Richards. I am a software engineer with a drive for creative problem solving and innovative design. I enjoy using programming languages to build projects from scratch and turn ideas into reality.
 
 <br>
-🌱 I’m currently working towards launching a portfolio site to showcase my projects..
+🌱 I’m currently working towards launching a portfolio site to showcase my projects
 
-⚡ Fun fact: I previously worked in film production and spent a ton of hours on movie sets
+⚡ Fun fact: I previously worked in film production and spent countless hours on movie sets
 <br>
 
 
